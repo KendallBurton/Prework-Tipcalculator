@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/KendallBurton/Prework_Tip_Calculator_IOS/blob/main/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/KendallBurton/Prework_Tip_Calculator_IOS/blob/main/TipCalculator.gif' title='Video Walkthrough' width='400x400' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
